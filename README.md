@@ -102,3 +102,18 @@ Includes sample data for quick testing without API credits.
 ---
 
 **Built for the Automate Your Life Track - Moltathon 2026**
+
+## 📹 Demo Video
+
+**Watch the 90-second demo:** [▶️ Play Video](https://github.com/liangmaybot/lead-miner/releases/download/v1.0.0/demo-video.mp4)
+
+[![Demo Video](https://img.shields.io/badge/▶️_Watch_Demo-YouTube-red?style=for-the-badge)](https://github.com/liangmaybot/lead-miner/releases/download/v1.0.0/demo-video.mp4)
+
+**Duration:** 90 seconds | **Size:** 1.5 MB  
+**Highlights:**
+- 50 demo leads generated
+- Review scraping from multiple sources
+- Lead scoring algorithm
+- WhatsApp notification system
+
+[View Release](https://github.com/liangmaybot/lead-miner/releases/tag/v1.0.0) | [Download MP4](https://github.com/liangmaybot/lead-miner/releases/download/v1.0.0/demo-video.mp4)
