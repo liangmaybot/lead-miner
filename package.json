@@ -1,0 +1,21 @@
+{
+  "name": "lead-miner",
+  "version": "1.0.0",
+  "description": "Automated lead generation from businesses with bad reviews",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "scrape": "node src/review-scraper.js",
+    "enrich": "node src/enricher.js",
+    "score": "node src/scorer.js",
+    "export": "node src/exporter.js",
+    "demo": "node src/demo.js"
+  },
+  "dependencies": {
+    "apify-client": "^2.9.3",
+    "csv-writer": "^1.6.0",
+    "sentiment": "^5.0.2",
+    "dotenv": "^16.4.5"
+  }
+}

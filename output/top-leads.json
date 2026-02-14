@@ -1,0 +1,2833 @@
+[
+  {
+    "id": "demo_9",
+    "source": "demo",
+    "name": "Urban Salon",
+    "rating": 1.5,
+    "totalReviews": 211,
+    "category": "Auto Repair",
+    "address": "393 Oak St, Austin, TX",
+    "phone": "(344) 495-7531",
+    "website": "https://urban-salon.com",
+    "email": "info@urban-salon.com",
+    "reviews": [
+      {
+        "rating": 2,
+        "text": "Staff was unhelpful and slow.",
+        "date": "2026-01-14T17:03:21.247Z",
+        "sentiment": {
+          "score": -1,
+          "comparative": -0.2,
+          "sentiment": "negative",
+          "positive": [],
+          "negative": [
+            "slow"
+          ]
+        }
+      },
+      {
+        "rating": 2,
+        "text": "Terrible experience. Would not return.",
+        "date": "2026-01-23T17:03:21.247Z",
+        "sentiment": {
+          "score": -1,
+          "comparative": -0.2,
+          "sentiment": "negative",
+          "positive": [],
+          "negative": [
+            "terrible"
+          ]
+        }
+      },
+      {
+        "rating": 2,
+        "text": "Staff was unhelpful and slow.",
+        "date": "2026-01-22T17:03:21.247Z",
+        "sentiment": {
+          "score": -1,
+          "comparative": -0.2,
+          "sentiment": "negative",
+          "positive": [],
+          "negative": [
+            "slow"
+          ]
+        }
+      },
+      {
+        "rating": 1,
+        "text": "Staff was unhelpful and slow.",
+        "date": "2026-01-28T17:03:21.247Z",
+        "sentiment": {
+          "score": -1,
+          "comparative": -0.2,
+          "sentiment": "negative",
+          "positive": [],
+          "negative": [
+            "slow"
+          ]
+        }
+      },
+      {
+        "rating": 1,
+        "text": "Dirty tables and cold food.",
+        "date": "2025-12-19T17:03:21.247Z",
+        "sentiment": {
+          "score": -2,
+          "comparative": -0.4,
+          "sentiment": "negative",
+          "positive": [],
+          "negative": [
+            "dirty",
+            "cold"
+          ]
+        }
+      },
+      {
+        "rating": 2,
+        "text": "Terrible experience. Would not return.",
+        "date": "2025-12-17T17:03:21.247Z",
+        "sentiment": {
+          "score": -1,
+          "comparative": -0.2,
+          "sentiment": "negative",
+          "positive": [],
+          "negative": [
+            "terrible"
+          ]
+        }
+      },
+      {
+        "rating": 1,
+        "text": "Staff was unhelpful and slow.",
+        "date": "2025-10-19T17:03:21.247Z",
+        "sentiment": {
+          "score": -1,
+          "comparative": -0.2,
+          "sentiment": "negative",
+          "positive": [],
+          "negative": [
+            "slow"
+          ]
+        }
+      },
+      {
+        "rating": 1,
+        "text": "Dirty tables and cold food.",
+        "date": "2026-01-20T17:03:21.247Z",
+        "sentiment": {
+          "score": -2,
+          "comparative": -0.4,
+          "sentiment": "negative",
+          "positive": [],
+          "negative": [
+            "dirty",
+            "cold"
+          ]
+        }
+      },
+      {
+        "rating": 2,
+        "text": "Dirty tables and cold food.",
+        "date": "2025-12-22T17:03:21.247Z",
+        "sentiment": {
+          "score": -2,
+          "comparative": -0.4,
+          "sentiment": "negative",
+          "positive": [],
+          "negative": [
+            "dirty",
+            "cold"
+          ]
+        }
+      },
+      {
+        "rating": 1,
+        "text": "Long wait and the service was rude.",
+        "date": "2025-12-16T17:03:21.247Z",
+        "sentiment": {
+          "score": -1,
+          "comparative": -0.14285714285714285,
+          "sentiment": "negative",
+          "positive": [],
+          "negative": [
+            "rude"
+          ]
+        }
+      },
+      {
+        "rating": 3,
+        "text": "Decent but the service was inconsistent.",
+        "date": "2026-01-01T17:03:21.247Z",
+        "sentiment": {
+          "score": 0,
+          "comparative": 0,
+          "sentiment": "neutral",
+          "positive": [],
+          "negative": []
+        }
+      },
+      {
+        "rating": 1,
+        "text": "Long wait and the service was rude.",
+        "date": "2025-12-15T17:03:21.247Z",
+        "sentiment": {
+          "score": -1,
+          "comparative": -0.14285714285714285,
+          "sentiment": "negative",
+          "positive": [],
+          "negative": [
+            "rude"
+          ]
+        }
+      },
+      {
+        "rating": 2,
+        "text": "Staff was unhelpful and slow.",
+        "date": "2026-02-06T17:03:21.247Z",
+        "sentiment": {
+          "score": -1,
+          "comparative": -0.2,
+          "sentiment": "negative",
+          "positive": [],
+          "negative": [
+            "slow"
+          ]
+        }
+      },
+      {
+        "rating": 2,
+        "text": "Staff was unhelpful and slow.",
+        "date": "2025-11-27T17:03:21.247Z",
+        "sentiment": {
+          "score": -1,
+          "comparative": -0.2,
+          "sentiment": "negative",
+          "positive": [],
+          "negative": [
+            "slow"
+          ]
+        }
+      },
+      {
+        "rating": 1,
+        "text": "Dirty tables and cold food.",
+        "date": "2025-12-05T17:03:21.247Z",
+        "sentiment": {
+          "score": -2,
+          "comparative": -0.4,
+          "sentiment": "negative",
+          "positive": [],
+          "negative": [
+            "dirty",
+            "cold"
+          ]
+        }
+      },
+      {
+        "rating": 2,
+        "text": "Dirty tables and cold food.",
+        "date": "2025-12-14T17:03:21.247Z",
+        "sentiment": {
+          "score": -2,
+          "comparative": -0.4,
+          "sentiment": "negative",
+          "positive": [],
+          "negative": [
+            "dirty",
+            "cold"
+          ]
+        }
+      },
+      {
+        "rating": 2,
+        "text": "Long wait and the service was rude.",
+        "date": "2025-12-06T17:03:21.247Z",
+        "sentiment": {
+          "score": -1,
+          "comparative": -0.14285714285714285,
+          "sentiment": "negative",
+          "positive": [],
+          "negative": [
+            "rude"
+          ]
+        }
+      },
+      {
+        "rating": 2,
+        "text": "Terrible experience. Would not return.",
+        "date": "2026-02-13T17:03:21.247Z",
+        "sentiment": {
+          "score": -1,
+          "comparative": -0.2,
+          "sentiment": "negative",
+          "positive": [],
+          "negative": [
+            "terrible"
+          ]
+        }
+      }
+    ],
+    "url": "https://urban-salon.com",
+    "scrapedAt": "2026-02-14T17:03:21.247Z",
+    "enrichment": {
+      "contactInfo": {
+        "phone": "(344) 495-7531",
+        "email": "info@urban-salon.com",
+        "website": "https://urban-salon.com",
+        "hasContact": true
+      },
+      "reviewTrend": {
+        "trend": "improving",
+        "change": 0.44,
+        "recentAvg": 1.89,
+        "olderAvg": 1.44,
+        "trendScore": "moderate"
+      },
+      "businessSize": {
+        "size": "large",
+        "category": "Large (200-500 reviews)",
+        "totalReviews": 211,
+        "sizeScore": 21.1
+      },
+      "responseRate": {
+        "rate": 0,
+        "responded": 0,
+        "total": 18,
+        "percentage": "0%",
+        "engagement": "low"
+      },
+      "negativeReviewKeywords": [
+        {
+          "word": "slow",
+          "count": 6
+        },
+        {
+          "word": "dirty",
+          "count": 5
+        },
+        {
+          "word": "cold",
+          "count": 5
+        },
+        {
+          "word": "terrible",
+          "count": 3
+        },
+        {
+          "word": "rude",
+          "count": 3
+        }
+      ],
+      "lastNegativeReview": {
+        "date": "2026-02-13T17:03:21.247Z",
+        "daysAgo": 1,
+        "recency": "very_recent"
+      }
+    },
+    "score": 90,
+    "scoringDetails": {
+      "recentNegatives": {
+        "count": 6,
+        "points": 40
+      },
+      "lowResponseRate": {
+        "rate": 0,
+        "points": 30
+      },
+      "businessSize": {
+        "reviews": 211,
+        "points": 20
+      }
+    },
+    "priority": "critical"
+  },
+  {
+    "id": "demo_38",
+    "source": "demo",
+    "name": "Maple Fitness",
+    "rating": 1.6,
+    "totalReviews": 127,
+    "category": "Auto Repair",
+    "address": "144 Oak St, Portland, OR",
+    "phone": "(554) 362-8532",
+    "website": "https://maple-fitness.com",
+    "email": "info@maple-fitness.com",
+    "reviews": [
+      {
+        "rating": 1,
+        "text": "Not worth the price. Very disappointed.",
+        "date": "2026-01-29T17:03:21.250Z",
+        "sentiment": {
+          "score": -1,
+          "comparative": -0.16666666666666666,
+          "sentiment": "negative",
+          "positive": [],
+          "negative": [
+            "disappointed"
+          ]
+        }
+      },
+      {
+        "rating": 2,
+        "text": "Staff was unhelpful and slow.",
+        "date": "2025-11-27T17:03:21.250Z",
+        "sentiment": {
+          "score": -1,
+          "comparative": -0.2,
+          "sentiment": "negative",
+          "positive": [],
+          "negative": [
+            "slow"
+          ]
+        }
+      },
+      {
+        "rating": 1,
+        "text": "Dirty tables and cold food.",
+        "date": "2026-01-01T17:03:21.250Z",
+        "sentiment": {
+          "score": -2,
+          "comparative": -0.4,
+          "sentiment": "negative",
+          "positive": [],
+          "negative": [
+            "dirty",
+            "cold"
+          ]
+        }
+      },
+      {
+        "rating": 1,
+        "text": "Not worth the price. Very disappointed.",
+        "date": "2025-11-07T17:03:21.250Z",
+        "sentiment": {
+          "score": -1,
+          "comparative": -0.16666666666666666,
+          "sentiment": "negative",
+          "positive": [],
+          "negative": [
+            "disappointed"
+          ]
+        }
+      },
+      {
+        "rating": 1,
+        "text": "Not worth the price. Very disappointed.",
+        "date": "2026-01-29T17:03:21.250Z",
+        "sentiment": {
+          "score": -1,
+          "comparative": -0.16666666666666666,
+          "sentiment": "negative",
+          "positive": [],
+          "negative": [
+            "disappointed"
+          ]
+        }
+      },
+      {
+        "rating": 1,
+        "text": "Terrible experience. Would not return.",
+        "date": "2025-12-07T17:03:21.250Z",
+        "sentiment": {
+          "score": -1,
+          "comparative": -0.2,
+          "sentiment": "negative",
+          "positive": [],
+          "negative": [
+            "terrible"
+          ]
+        }
+      },
+      {
+        "rating": 1,
+        "text": "Not worth the price. Very disappointed.",
+        "date": "2026-01-17T17:03:21.250Z",
+        "sentiment": {
+          "score": -1,
+          "comparative": -0.16666666666666666,
+          "sentiment": "negative",
+          "positive": [],
+          "negative": [
+            "disappointed"
+          ]
+        }
+      },
+      {
+        "rating": 1,
+        "text": "Not worth the price. Very disappointed.",
+        "date": "2025-10-27T17:03:21.250Z",
+        "sentiment": {
+          "score": -1,
+          "comparative": -0.16666666666666666,
+          "sentiment": "negative",
+          "positive": [],
+          "negative": [
+            "disappointed"
+          ]
+        }
+      },
+      {
+        "rating": 1,
+        "text": "Not worth the price. Very disappointed.",
+        "date": "2026-01-23T17:03:21.250Z",
+        "sentiment": {
+          "score": -1,
+          "comparative": -0.16666666666666666,
+          "sentiment": "negative",
+          "positive": [],
+          "negative": [
+            "disappointed"
+          ]
+        }
+      },
+      {
+        "rating": 2,
+        "text": "Staff was unhelpful and slow.",
+        "date": "2026-01-08T17:03:21.250Z",
+        "sentiment": {
+          "score": -1,
+          "comparative": -0.2,
+          "sentiment": "negative",
+          "positive": [],
+          "negative": [
+            "slow"
+          ]
+        }
+      },
+      {
+        "rating": 1,
+        "text": "Staff was unhelpful and slow.",
+        "date": "2025-12-23T17:03:21.250Z",
+        "sentiment": {
+          "score": -1,
+          "comparative": -0.2,
+          "sentiment": "negative",
+          "positive": [],
+          "negative": [
+            "slow"
+          ]
+        }
+      },
+      {
+        "rating": 2,
+        "text": "Dirty tables and cold food.",
+        "date": "2025-11-30T17:03:21.250Z",
+        "sentiment": {
+          "score": -2,
+          "comparative": -0.4,
+          "sentiment": "negative",
+          "positive": [],
+          "negative": [
+            "dirty",
+            "cold"
+          ]
+        }
+      },
+      {
+        "rating": 3,
+        "text": "Fine for a quick stop.",
+        "date": "2026-02-10T17:03:21.250Z",
+        "sentiment": {
+          "score": 1,
+          "comparative": 0.2,
+          "sentiment": "positive",
+          "positive": [
+            "quick"
+          ],
+          "negative": []
+        }
+      },
+      {
+        "rating": 2,
+        "text": "Staff was unhelpful and slow.",
+        "date": "2025-11-23T17:03:21.250Z",
+        "sentiment": {
+          "score": -1,
+          "comparative": -0.2,
+          "sentiment": "negative",
+          "positive": [],
+          "negative": [
+            "slow"
+          ]
+        }
+      },
+      {
+        "rating": 3,
+        "text": "Average visit, some things could improve.",
+        "date": "2025-10-28T17:03:21.250Z",
+        "sentiment": {
+          "score": 0,
+          "comparative": 0,
+          "sentiment": "neutral",
+          "positive": [],
+          "negative": []
+        }
+      },
+      {
+        "rating": 3,
+        "text": "Average visit, some things could improve.",
+        "date": "2026-01-04T17:03:21.250Z",
+        "sentiment": {
+          "score": 0,
+          "comparative": 0,
+          "sentiment": "neutral",
+          "positive": [],
+          "negative": []
+        }
+      },
+      {
+        "rating": 1,
+        "text": "Staff was unhelpful and slow.",
+        "date": "2026-02-04T17:03:21.250Z",
+        "sentiment": {
+          "score": -1,
+          "comparative": -0.2,
+          "sentiment": "negative",
+          "positive": [],
+          "negative": [
+            "slow"
+          ]
+        }
+      },
+      {
+        "rating": 2,
+        "text": "Terrible experience. Would not return.",
+        "date": "2026-01-28T17:03:21.250Z",
+        "sentiment": {
+          "score": -1,
+          "comparative": -0.2,
+          "sentiment": "negative",
+          "positive": [],
+          "negative": [
+            "terrible"
+          ]
+        }
+      }
+    ],
+    "url": "https://maple-fitness.com",
+    "scrapedAt": "2026-02-14T17:03:21.250Z",
+    "enrichment": {
+      "contactInfo": {
+        "phone": "(554) 362-8532",
+        "email": "info@maple-fitness.com",
+        "website": "https://maple-fitness.com",
+        "hasContact": true
+      },
+      "reviewTrend": {
+        "trend": "stable",
+        "change": 0.11,
+        "recentAvg": 1.67,
+        "olderAvg": 1.56,
+        "trendScore": "moderate"
+      },
+      "businessSize": {
+        "size": "medium",
+        "category": "Medium (50-200 reviews)",
+        "totalReviews": 127,
+        "sizeScore": 12.7
+      },
+      "responseRate": {
+        "rate": 0,
+        "responded": 0,
+        "total": 18,
+        "percentage": "0%",
+        "engagement": "low"
+      },
+      "negativeReviewKeywords": [
+        {
+          "word": "disappointed",
+          "count": 6
+        },
+        {
+          "word": "slow",
+          "count": 5
+        },
+        {
+          "word": "dirty",
+          "count": 2
+        },
+        {
+          "word": "cold",
+          "count": 2
+        },
+        {
+          "word": "terrible",
+          "count": 2
+        }
+      ],
+      "lastNegativeReview": {
+        "date": "2026-02-04T17:03:21.250Z",
+        "daysAgo": 10,
+        "recency": "recent"
+      }
+    },
+    "score": 90,
+    "scoringDetails": {
+      "recentNegatives": {
+        "count": 6,
+        "points": 40
+      },
+      "lowResponseRate": {
+        "rate": 0,
+        "points": 30
+      },
+      "businessSize": {
+        "reviews": 127,
+        "points": 20
+      }
+    },
+    "priority": "critical"
+  },
+  {
+    "id": "demo_48",
+    "source": "demo",
+    "name": "Silver Bistro 48",
+    "rating": 1.5,
+    "totalReviews": 238,
+    "category": "Gym",
+    "address": "371 2nd Ave, Chicago, IL",
+    "phone": "(862) 837-8261",
+    "website": "https://silver-bistro-48.com",
+    "email": "info@silver-bistro-48.com",
+    "reviews": [
+      {
+        "rating": 2,
+        "text": "Dirty tables and cold food.",
+        "date": "2026-01-23T17:03:21.250Z",
+        "sentiment": {
+          "score": -2,
+          "comparative": -0.4,
+          "sentiment": "negative",
+          "positive": [],
+          "negative": [
+            "dirty",
+            "cold"
+          ]
+        }
+      },
+      {
+        "rating": 1,
+        "text": "Not worth the price. Very disappointed.",
+        "date": "2026-01-29T17:03:21.250Z",
+        "sentiment": {
+          "score": -1,
+          "comparative": -0.16666666666666666,
+          "sentiment": "negative",
+          "positive": [],
+          "negative": [
+            "disappointed"
+          ]
+        }
+      },
+      {
+        "rating": 1,
+        "text": "Not worth the price. Very disappointed.",
+        "date": "2026-01-22T17:03:21.250Z",
+        "sentiment": {
+          "score": -1,
+          "comparative": -0.16666666666666666,
+          "sentiment": "negative",
+          "positive": [],
+          "negative": [
+            "disappointed"
+          ]
+        }
+      },
+      {
+        "rating": 2,
+        "text": "Not worth the price. Very disappointed.",
+        "date": "2026-01-24T17:03:21.250Z",
+        "sentiment": {
+          "score": -1,
+          "comparative": -0.16666666666666666,
+          "sentiment": "negative",
+          "positive": [],
+          "negative": [
+            "disappointed"
+          ]
+        }
+      },
+      {
+        "rating": 1,
+        "text": "Staff was unhelpful and slow.",
+        "date": "2026-01-08T17:03:21.250Z",
+        "sentiment": {
+          "score": -1,
+          "comparative": -0.2,
+          "sentiment": "negative",
+          "positive": [],
+          "negative": [
+            "slow"
+          ]
+        }
+      },
+      {
+        "rating": 1,
+        "text": "Long wait and the service was rude.",
+        "date": "2025-11-07T17:03:21.250Z",
+        "sentiment": {
+          "score": -1,
+          "comparative": -0.14285714285714285,
+          "sentiment": "negative",
+          "positive": [],
+          "negative": [
+            "rude"
+          ]
+        }
+      },
+      {
+        "rating": 2,
+        "text": "Not worth the price. Very disappointed.",
+        "date": "2026-01-14T17:03:21.250Z",
+        "sentiment": {
+          "score": -1,
+          "comparative": -0.16666666666666666,
+          "sentiment": "negative",
+          "positive": [],
+          "negative": [
+            "disappointed"
+          ]
+        }
+      },
+      {
+        "rating": 2,
+        "text": "Staff was unhelpful and slow.",
+        "date": "2025-12-25T17:03:21.250Z",
+        "sentiment": {
+          "score": -1,
+          "comparative": -0.2,
+          "sentiment": "negative",
+          "positive": [],
+          "negative": [
+            "slow"
+          ]
+        }
+      },
+      {
+        "rating": 2,
+        "text": "Long wait and the service was rude.",
+        "date": "2025-10-30T17:03:21.250Z",
+        "sentiment": {
+          "score": -1,
+          "comparative": -0.14285714285714285,
+          "sentiment": "negative",
+          "positive": [],
+          "negative": [
+            "rude"
+          ]
+        }
+      },
+      {
+        "rating": 1,
+        "text": "Terrible experience. Would not return.",
+        "date": "2025-11-08T17:03:21.250Z",
+        "sentiment": {
+          "score": -1,
+          "comparative": -0.2,
+          "sentiment": "negative",
+          "positive": [],
+          "negative": [
+            "terrible"
+          ]
+        }
+      },
+      {
+        "rating": 2,
+        "text": "Terrible experience. Would not return.",
+        "date": "2026-01-19T17:03:21.250Z",
+        "sentiment": {
+          "score": -1,
+          "comparative": -0.2,
+          "sentiment": "negative",
+          "positive": [],
+          "negative": [
+            "terrible"
+          ]
+        }
+      },
+      {
+        "rating": 3,
+        "text": "Mixed experience, some good some bad.",
+        "date": "2025-12-27T17:03:21.250Z",
+        "sentiment": {
+          "score": 0,
+          "comparative": 0,
+          "sentiment": "neutral",
+          "positive": [
+            "good"
+          ],
+          "negative": [
+            "bad"
+          ]
+        }
+      },
+      {
+        "rating": 1,
+        "text": "Terrible experience. Would not return.",
+        "date": "2026-01-23T17:03:21.250Z",
+        "sentiment": {
+          "score": -1,
+          "comparative": -0.2,
+          "sentiment": "negative",
+          "positive": [],
+          "negative": [
+            "terrible"
+          ]
+        }
+      },
+      {
+        "rating": 2,
+        "text": "Not worth the price. Very disappointed.",
+        "date": "2026-02-06T17:03:21.250Z",
+        "sentiment": {
+          "score": -1,
+          "comparative": -0.16666666666666666,
+          "sentiment": "negative",
+          "positive": [],
+          "negative": [
+            "disappointed"
+          ]
+        }
+      },
+      {
+        "rating": 3,
+        "text": "Average visit, some things could improve.",
+        "date": "2025-11-09T17:03:21.250Z",
+        "sentiment": {
+          "score": 0,
+          "comparative": 0,
+          "sentiment": "neutral",
+          "positive": [],
+          "negative": []
+        }
+      },
+      {
+        "rating": 2,
+        "text": "Not worth the price. Very disappointed.",
+        "date": "2025-10-22T17:03:21.250Z",
+        "sentiment": {
+          "score": -1,
+          "comparative": -0.16666666666666666,
+          "sentiment": "negative",
+          "positive": [],
+          "negative": [
+            "disappointed"
+          ]
+        }
+      },
+      {
+        "rating": 2,
+        "text": "Dirty tables and cold food.",
+        "date": "2025-12-15T17:03:21.250Z",
+        "sentiment": {
+          "score": -2,
+          "comparative": -0.4,
+          "sentiment": "negative",
+          "positive": [],
+          "negative": [
+            "dirty",
+            "cold"
+          ]
+        }
+      }
+    ],
+    "url": "https://silver-bistro-48.com",
+    "scrapedAt": "2026-02-14T17:03:21.250Z",
+    "enrichment": {
+      "contactInfo": {
+        "phone": "(862) 837-8261",
+        "email": "info@silver-bistro-48.com",
+        "website": "https://silver-bistro-48.com",
+        "hasContact": true
+      },
+      "reviewTrend": {
+        "trend": "stable",
+        "change": -0.26,
+        "recentAvg": 1.63,
+        "olderAvg": 1.89,
+        "trendScore": "moderate"
+      },
+      "businessSize": {
+        "size": "large",
+        "category": "Large (200-500 reviews)",
+        "totalReviews": 238,
+        "sizeScore": 23.8
+      },
+      "responseRate": {
+        "rate": 0,
+        "responded": 0,
+        "total": 17,
+        "percentage": "0%",
+        "engagement": "low"
+      },
+      "negativeReviewKeywords": [
+        {
+          "word": "disappointed",
+          "count": 6
+        },
+        {
+          "word": "terrible",
+          "count": 3
+        },
+        {
+          "word": "dirty",
+          "count": 2
+        },
+        {
+          "word": "cold",
+          "count": 2
+        },
+        {
+          "word": "slow",
+          "count": 2
+        }
+      ],
+      "lastNegativeReview": {
+        "date": "2026-02-06T17:03:21.250Z",
+        "daysAgo": 8,
+        "recency": "recent"
+      }
+    },
+    "score": 90,
+    "scoringDetails": {
+      "recentNegatives": {
+        "count": 7,
+        "points": 40
+      },
+      "lowResponseRate": {
+        "rate": 0,
+        "points": 30
+      },
+      "businessSize": {
+        "reviews": 238,
+        "points": 20
+      }
+    },
+    "priority": "critical"
+  },
+  {
+    "id": "demo_27",
+    "source": "demo",
+    "name": "Sunrise Auto",
+    "rating": 2.3,
+    "totalReviews": 43,
+    "category": "Bakery",
+    "address": "531 2nd Ave, Boston, MA",
+    "phone": "(941) 686-4862",
+    "website": "https://sunrise-auto.com",
+    "email": "info@sunrise-auto.com",
+    "reviews": [
+      {
+        "rating": 2,
+        "text": "Staff was unhelpful and slow.",
+        "date": "2026-02-03T17:03:21.248Z",
+        "sentiment": {
+          "score": -1,
+          "comparative": -0.2,
+          "sentiment": "negative",
+          "positive": [],
+          "negative": [
+            "slow"
+          ]
+        }
+      },
+      {
+        "rating": 2,
+        "text": "Long wait and the service was rude.",
+        "date": "2026-02-03T17:03:21.248Z",
+        "sentiment": {
+          "score": -1,
+          "comparative": -0.14285714285714285,
+          "sentiment": "negative",
+          "positive": [],
+          "negative": [
+            "rude"
+          ]
+        }
+      },
+      {
+        "rating": 1,
+        "text": "Long wait and the service was rude.",
+        "date": "2026-02-09T17:03:21.248Z",
+        "sentiment": {
+          "score": -1,
+          "comparative": -0.14285714285714285,
+          "sentiment": "negative",
+          "positive": [],
+          "negative": [
+            "rude"
+          ]
+        }
+      },
+      {
+        "rating": 3,
+        "text": "Average visit, some things could improve.",
+        "date": "2025-11-20T17:03:21.248Z",
+        "sentiment": {
+          "score": 0,
+          "comparative": 0,
+          "sentiment": "neutral",
+          "positive": [],
+          "negative": []
+        }
+      },
+      {
+        "rating": 2,
+        "text": "Terrible experience. Would not return.",
+        "date": "2025-12-27T17:03:21.248Z",
+        "sentiment": {
+          "score": -1,
+          "comparative": -0.2,
+          "sentiment": "negative",
+          "positive": [],
+          "negative": [
+            "terrible"
+          ]
+        }
+      },
+      {
+        "rating": 1,
+        "text": "Dirty tables and cold food.",
+        "date": "2026-01-25T17:03:21.248Z",
+        "sentiment": {
+          "score": -2,
+          "comparative": -0.4,
+          "sentiment": "negative",
+          "positive": [],
+          "negative": [
+            "dirty",
+            "cold"
+          ]
+        }
+      },
+      {
+        "rating": 3,
+        "text": "Okay overall but nothing special.",
+        "date": "2025-12-27T17:03:21.248Z",
+        "sentiment": {
+          "score": 0,
+          "comparative": 0,
+          "sentiment": "neutral",
+          "positive": [],
+          "negative": []
+        }
+      },
+      {
+        "rating": 1,
+        "text": "Dirty tables and cold food.",
+        "date": "2025-10-20T17:03:21.248Z",
+        "sentiment": {
+          "score": -2,
+          "comparative": -0.4,
+          "sentiment": "negative",
+          "positive": [],
+          "negative": [
+            "dirty",
+            "cold"
+          ]
+        }
+      },
+      {
+        "rating": 3,
+        "text": "Decent but the service was inconsistent.",
+        "date": "2025-12-20T17:03:21.248Z",
+        "sentiment": {
+          "score": 0,
+          "comparative": 0,
+          "sentiment": "neutral",
+          "positive": [],
+          "negative": []
+        }
+      },
+      {
+        "rating": 2,
+        "text": "Terrible experience. Would not return.",
+        "date": "2026-02-01T17:03:21.248Z",
+        "sentiment": {
+          "score": -1,
+          "comparative": -0.2,
+          "sentiment": "negative",
+          "positive": [],
+          "negative": [
+            "terrible"
+          ]
+        }
+      },
+      {
+        "rating": 3,
+        "text": "Mixed experience, some good some bad.",
+        "date": "2026-01-23T17:03:21.248Z",
+        "sentiment": {
+          "score": 0,
+          "comparative": 0,
+          "sentiment": "neutral",
+          "positive": [
+            "good"
+          ],
+          "negative": [
+            "bad"
+          ]
+        }
+      }
+    ],
+    "url": "https://sunrise-auto.com",
+    "scrapedAt": "2026-02-14T17:03:21.248Z",
+    "enrichment": {
+      "contactInfo": {
+        "phone": "(941) 686-4862",
+        "email": "info@sunrise-auto.com",
+        "website": "https://sunrise-auto.com",
+        "hasContact": true
+      },
+      "reviewTrend": {
+        "trend": "worsening",
+        "change": -0.9,
+        "recentAvg": 1.6,
+        "olderAvg": 2.5,
+        "trendScore": "critical"
+      },
+      "businessSize": {
+        "size": "small",
+        "category": "Small (10-50 reviews)",
+        "totalReviews": 43,
+        "sizeScore": 4.3
+      },
+      "responseRate": {
+        "rate": 0,
+        "responded": 0,
+        "total": 11,
+        "percentage": "0%",
+        "engagement": "low"
+      },
+      "negativeReviewKeywords": [
+        {
+          "word": "rude",
+          "count": 2
+        },
+        {
+          "word": "wait",
+          "count": 2
+        },
+        {
+          "word": "terrible",
+          "count": 2
+        },
+        {
+          "word": "dirty",
+          "count": 2
+        },
+        {
+          "word": "cold",
+          "count": 2
+        }
+      ],
+      "lastNegativeReview": {
+        "date": "2026-02-09T17:03:21.248Z",
+        "daysAgo": 5,
+        "recency": "very_recent"
+      }
+    },
+    "score": 88,
+    "scoringDetails": {
+      "recentNegatives": {
+        "count": 5,
+        "points": 40
+      },
+      "lowResponseRate": {
+        "rate": 0,
+        "points": 30
+      },
+      "businessSize": {
+        "reviews": 43,
+        "points": 8
+      },
+      "ratingDecline": {
+        "trend": "worsening",
+        "trendScore": "critical",
+        "points": 10
+      }
+    },
+    "priority": "critical"
+  },
+  {
+    "id": "demo_8",
+    "source": "demo",
+    "name": "Silver Salon",
+    "rating": 2.3,
+    "totalReviews": 212,
+    "category": "Cafe",
+    "address": "720 Sunset Blvd, Nashville, TN",
+    "phone": "(638) 364-9298",
+    "website": "https://silver-salon.com",
+    "email": "info@silver-salon.com",
+    "reviews": [
+      {
+        "rating": 1,
+        "text": "Long wait and the service was rude.",
+        "date": "2026-02-06T17:03:21.247Z",
+        "sentiment": {
+          "score": -1,
+          "comparative": -0.14285714285714285,
+          "sentiment": "negative",
+          "positive": [],
+          "negative": [
+            "rude"
+          ]
+        }
+      },
+      {
+        "rating": 2,
+        "text": "Not worth the price. Very disappointed.",
+        "date": "2026-01-16T17:03:21.247Z",
+        "sentiment": {
+          "score": -1,
+          "comparative": -0.16666666666666666,
+          "sentiment": "negative",
+          "positive": [],
+          "negative": [
+            "disappointed"
+          ]
+        }
+      },
+      {
+        "rating": 3,
+        "text": "Mixed experience, some good some bad.",
+        "date": "2025-12-06T17:03:21.247Z",
+        "sentiment": {
+          "score": 0,
+          "comparative": 0,
+          "sentiment": "neutral",
+          "positive": [
+            "good"
+          ],
+          "negative": [
+            "bad"
+          ]
+        }
+      },
+      {
+        "rating": 2,
+        "text": "Long wait and the service was rude.",
+        "date": "2025-11-28T17:03:21.247Z",
+        "sentiment": {
+          "score": -1,
+          "comparative": -0.14285714285714285,
+          "sentiment": "negative",
+          "positive": [],
+          "negative": [
+            "rude"
+          ]
+        }
+      },
+      {
+        "rating": 3,
+        "text": "Average visit, some things could improve.",
+        "date": "2025-11-10T17:03:21.247Z",
+        "sentiment": {
+          "score": 0,
+          "comparative": 0,
+          "sentiment": "neutral",
+          "positive": [],
+          "negative": []
+        }
+      },
+      {
+        "rating": 2,
+        "text": "Dirty tables and cold food.",
+        "date": "2025-11-11T17:03:21.247Z",
+        "sentiment": {
+          "score": -2,
+          "comparative": -0.4,
+          "sentiment": "negative",
+          "positive": [],
+          "negative": [
+            "dirty",
+            "cold"
+          ]
+        }
+      },
+      {
+        "rating": 1,
+        "text": "Terrible experience. Would not return.",
+        "date": "2026-02-04T17:03:21.247Z",
+        "sentiment": {
+          "score": -1,
+          "comparative": -0.2,
+          "sentiment": "negative",
+          "positive": [],
+          "negative": [
+            "terrible"
+          ]
+        }
+      },
+      {
+        "rating": 2,
+        "text": "Terrible experience. Would not return.",
+        "date": "2025-11-01T17:03:21.247Z",
+        "sentiment": {
+          "score": -1,
+          "comparative": -0.2,
+          "sentiment": "negative",
+          "positive": [],
+          "negative": [
+            "terrible"
+          ]
+        }
+      },
+      {
+        "rating": 2,
+        "text": "Long wait and the service was rude.",
+        "date": "2025-10-22T17:03:21.247Z",
+        "sentiment": {
+          "score": -1,
+          "comparative": -0.14285714285714285,
+          "sentiment": "negative",
+          "positive": [],
+          "negative": [
+            "rude"
+          ]
+        }
+      },
+      {
+        "rating": 1,
+        "text": "Terrible experience. Would not return.",
+        "date": "2025-12-09T17:03:21.247Z",
+        "sentiment": {
+          "score": -1,
+          "comparative": -0.2,
+          "sentiment": "negative",
+          "positive": [],
+          "negative": [
+            "terrible"
+          ]
+        }
+      },
+      {
+        "rating": 2,
+        "text": "Not worth the price. Very disappointed.",
+        "date": "2025-11-13T17:03:21.247Z",
+        "sentiment": {
+          "score": -1,
+          "comparative": -0.16666666666666666,
+          "sentiment": "negative",
+          "positive": [],
+          "negative": [
+            "disappointed"
+          ]
+        }
+      },
+      {
+        "rating": 1,
+        "text": "Terrible experience. Would not return.",
+        "date": "2025-11-26T17:03:21.247Z",
+        "sentiment": {
+          "score": -1,
+          "comparative": -0.2,
+          "sentiment": "negative",
+          "positive": [],
+          "negative": [
+            "terrible"
+          ]
+        }
+      }
+    ],
+    "url": "https://silver-salon.com",
+    "scrapedAt": "2026-02-14T17:03:21.247Z",
+    "enrichment": {
+      "contactInfo": {
+        "phone": "(638) 364-9298",
+        "email": "info@silver-salon.com",
+        "website": "https://silver-salon.com",
+        "hasContact": true
+      },
+      "reviewTrend": {
+        "trend": "worsening",
+        "change": -0.33,
+        "recentAvg": 1.67,
+        "olderAvg": 2,
+        "trendScore": "high"
+      },
+      "businessSize": {
+        "size": "large",
+        "category": "Large (200-500 reviews)",
+        "totalReviews": 212,
+        "sizeScore": 21.2
+      },
+      "responseRate": {
+        "rate": 0,
+        "responded": 0,
+        "total": 12,
+        "percentage": "0%",
+        "engagement": "low"
+      },
+      "negativeReviewKeywords": [
+        {
+          "word": "terrible",
+          "count": 4
+        },
+        {
+          "word": "rude",
+          "count": 3
+        },
+        {
+          "word": "wait",
+          "count": 3
+        },
+        {
+          "word": "disappointed",
+          "count": 2
+        },
+        {
+          "word": "dirty",
+          "count": 1
+        }
+      ],
+      "lastNegativeReview": {
+        "date": "2026-02-06T17:03:21.247Z",
+        "daysAgo": 8,
+        "recency": "recent"
+      }
+    },
+    "score": 84,
+    "scoringDetails": {
+      "recentNegatives": {
+        "count": 3,
+        "points": 24
+      },
+      "lowResponseRate": {
+        "rate": 0,
+        "points": 30
+      },
+      "businessSize": {
+        "reviews": 212,
+        "points": 20
+      },
+      "ratingDecline": {
+        "trend": "worsening",
+        "trendScore": "high",
+        "points": 10
+      }
+    },
+    "priority": "critical"
+  },
+  {
+    "id": "demo_29",
+    "source": "demo",
+    "name": "Evergreen Grill",
+    "rating": 1.7,
+    "totalReviews": 64,
+    "category": "Market",
+    "address": "611 Sunset Blvd, Boston, MA",
+    "phone": "(434) 294-9298",
+    "website": "https://evergreen-grill.com",
+    "email": "info@evergreen-grill.com",
+    "reviews": [
+      {
+        "rating": 1,
+        "text": "Terrible experience. Would not return.",
+        "date": "2026-01-24T17:03:21.248Z",
+        "sentiment": {
+          "score": -1,
+          "comparative": -0.2,
+          "sentiment": "negative",
+          "positive": [],
+          "negative": [
+            "terrible"
+          ]
+        }
+      },
+      {
+        "rating": 2,
+        "text": "Long wait and the service was rude.",
+        "date": "2026-02-02T17:03:21.248Z",
+        "sentiment": {
+          "score": -1,
+          "comparative": -0.14285714285714285,
+          "sentiment": "negative",
+          "positive": [],
+          "negative": [
+            "rude"
+          ]
+        }
+      },
+      {
+        "rating": 2,
+        "text": "Staff was unhelpful and slow.",
+        "date": "2026-01-27T17:03:21.248Z",
+        "sentiment": {
+          "score": -1,
+          "comparative": -0.2,
+          "sentiment": "negative",
+          "positive": [],
+          "negative": [
+            "slow"
+          ]
+        }
+      },
+      {
+        "rating": 3,
+        "text": "Average visit, some things could improve.",
+        "date": "2025-12-11T17:03:21.248Z",
+        "sentiment": {
+          "score": 0,
+          "comparative": 0,
+          "sentiment": "neutral",
+          "positive": [],
+          "negative": []
+        }
+      },
+      {
+        "rating": 2,
+        "text": "Not worth the price. Very disappointed.",
+        "date": "2025-12-21T17:03:21.248Z",
+        "sentiment": {
+          "score": -1,
+          "comparative": -0.16666666666666666,
+          "sentiment": "negative",
+          "positive": [],
+          "negative": [
+            "disappointed"
+          ]
+        }
+      },
+      {
+        "rating": 1,
+        "text": "Long wait and the service was rude.",
+        "date": "2026-01-09T17:03:21.248Z",
+        "sentiment": {
+          "score": -1,
+          "comparative": -0.14285714285714285,
+          "sentiment": "negative",
+          "positive": [],
+          "negative": [
+            "rude"
+          ]
+        }
+      },
+      {
+        "rating": 3,
+        "text": "Decent but the service was inconsistent.",
+        "date": "2026-01-28T17:03:21.248Z",
+        "sentiment": {
+          "score": 0,
+          "comparative": 0,
+          "sentiment": "neutral",
+          "positive": [],
+          "negative": []
+        }
+      },
+      {
+        "rating": 1,
+        "text": "Staff was unhelpful and slow.",
+        "date": "2026-01-24T17:03:21.248Z",
+        "sentiment": {
+          "score": -1,
+          "comparative": -0.2,
+          "sentiment": "negative",
+          "positive": [],
+          "negative": [
+            "slow"
+          ]
+        }
+      },
+      {
+        "rating": 2,
+        "text": "Terrible experience. Would not return.",
+        "date": "2025-12-11T17:03:21.248Z",
+        "sentiment": {
+          "score": -1,
+          "comparative": -0.2,
+          "sentiment": "negative",
+          "positive": [],
+          "negative": [
+            "terrible"
+          ]
+        }
+      },
+      {
+        "rating": 3,
+        "text": "Fine for a quick stop.",
+        "date": "2025-12-27T17:03:21.248Z",
+        "sentiment": {
+          "score": 1,
+          "comparative": 0.2,
+          "sentiment": "positive",
+          "positive": [
+            "quick"
+          ],
+          "negative": []
+        }
+      },
+      {
+        "rating": 2,
+        "text": "Long wait and the service was rude.",
+        "date": "2025-12-22T17:03:21.248Z",
+        "sentiment": {
+          "score": -1,
+          "comparative": -0.14285714285714285,
+          "sentiment": "negative",
+          "positive": [],
+          "negative": [
+            "rude"
+          ]
+        }
+      }
+    ],
+    "url": "https://evergreen-grill.com",
+    "scrapedAt": "2026-02-14T17:03:21.248Z",
+    "enrichment": {
+      "contactInfo": {
+        "phone": "(434) 294-9298",
+        "email": "info@evergreen-grill.com",
+        "website": "https://evergreen-grill.com",
+        "hasContact": true
+      },
+      "reviewTrend": {
+        "trend": "worsening",
+        "change": -0.37,
+        "recentAvg": 1.8,
+        "olderAvg": 2.17,
+        "trendScore": "high"
+      },
+      "businessSize": {
+        "size": "medium",
+        "category": "Medium (50-200 reviews)",
+        "totalReviews": 64,
+        "sizeScore": 6.4
+      },
+      "responseRate": {
+        "rate": 0,
+        "responded": 0,
+        "total": 11,
+        "percentage": "0%",
+        "engagement": "low"
+      },
+      "negativeReviewKeywords": [
+        {
+          "word": "rude",
+          "count": 3
+        },
+        {
+          "word": "wait",
+          "count": 3
+        },
+        {
+          "word": "terrible",
+          "count": 2
+        },
+        {
+          "word": "slow",
+          "count": 2
+        },
+        {
+          "word": "disappointed",
+          "count": 1
+        }
+      ],
+      "lastNegativeReview": {
+        "date": "2026-02-02T17:03:21.248Z",
+        "daysAgo": 12,
+        "recency": "recent"
+      }
+    },
+    "score": 78,
+    "scoringDetails": {
+      "recentNegatives": {
+        "count": 4,
+        "points": 24
+      },
+      "lowResponseRate": {
+        "rate": 0,
+        "points": 30
+      },
+      "businessSize": {
+        "reviews": 64,
+        "points": 14
+      },
+      "ratingDecline": {
+        "trend": "worsening",
+        "trendScore": "high",
+        "points": 10
+      }
+    },
+    "priority": "high"
+  },
+  {
+    "id": "demo_12",
+    "source": "demo",
+    "name": "Sunrise Hotel",
+    "rating": 2.5,
+    "totalReviews": 210,
+    "category": "Gym",
+    "address": "470 Pine St, Portland, OR",
+    "phone": "(550) 704-5093",
+    "website": "https://sunrise-hotel.com",
+    "email": "info@sunrise-hotel.com",
+    "reviews": [
+      {
+        "rating": 1,
+        "text": "Terrible experience. Would not return.",
+        "date": "2026-01-28T17:03:21.247Z",
+        "sentiment": {
+          "score": -1,
+          "comparative": -0.2,
+          "sentiment": "negative",
+          "positive": [],
+          "negative": [
+            "terrible"
+          ]
+        }
+      },
+      {
+        "rating": 3,
+        "text": "Mixed experience, some good some bad.",
+        "date": "2026-01-11T17:03:21.247Z",
+        "sentiment": {
+          "score": 0,
+          "comparative": 0,
+          "sentiment": "neutral",
+          "positive": [
+            "good"
+          ],
+          "negative": [
+            "bad"
+          ]
+        }
+      },
+      {
+        "rating": 3,
+        "text": "Decent but the service was inconsistent.",
+        "date": "2025-12-24T17:03:21.247Z",
+        "sentiment": {
+          "score": 0,
+          "comparative": 0,
+          "sentiment": "neutral",
+          "positive": [],
+          "negative": []
+        }
+      },
+      {
+        "rating": 2,
+        "text": "Staff was unhelpful and slow.",
+        "date": "2025-11-26T17:03:21.247Z",
+        "sentiment": {
+          "score": -1,
+          "comparative": -0.2,
+          "sentiment": "negative",
+          "positive": [],
+          "negative": [
+            "slow"
+          ]
+        }
+      },
+      {
+        "rating": 3,
+        "text": "Average visit, some things could improve.",
+        "date": "2025-11-22T17:03:21.247Z",
+        "sentiment": {
+          "score": 0,
+          "comparative": 0,
+          "sentiment": "neutral",
+          "positive": [],
+          "negative": []
+        }
+      },
+      {
+        "rating": 3,
+        "text": "Mixed experience, some good some bad.",
+        "date": "2025-12-14T17:03:21.247Z",
+        "sentiment": {
+          "score": 0,
+          "comparative": 0,
+          "sentiment": "neutral",
+          "positive": [
+            "good"
+          ],
+          "negative": [
+            "bad"
+          ]
+        }
+      },
+      {
+        "rating": 2,
+        "text": "Not worth the price. Very disappointed.",
+        "date": "2026-01-26T17:03:21.247Z",
+        "sentiment": {
+          "score": -1,
+          "comparative": -0.16666666666666666,
+          "sentiment": "negative",
+          "positive": [],
+          "negative": [
+            "disappointed"
+          ]
+        }
+      },
+      {
+        "rating": 3,
+        "text": "Mixed experience, some good some bad.",
+        "date": "2025-12-15T17:03:21.247Z",
+        "sentiment": {
+          "score": 0,
+          "comparative": 0,
+          "sentiment": "neutral",
+          "positive": [
+            "good"
+          ],
+          "negative": [
+            "bad"
+          ]
+        }
+      },
+      {
+        "rating": 1,
+        "text": "Terrible experience. Would not return.",
+        "date": "2025-11-27T17:03:21.247Z",
+        "sentiment": {
+          "score": -1,
+          "comparative": -0.2,
+          "sentiment": "negative",
+          "positive": [],
+          "negative": [
+            "terrible"
+          ]
+        }
+      },
+      {
+        "rating": 3,
+        "text": "Mixed experience, some good some bad.",
+        "date": "2026-01-14T17:03:21.247Z",
+        "sentiment": {
+          "score": 0,
+          "comparative": 0,
+          "sentiment": "neutral",
+          "positive": [
+            "good"
+          ],
+          "negative": [
+            "bad"
+          ]
+        }
+      },
+      {
+        "rating": 2,
+        "text": "Not worth the price. Very disappointed.",
+        "date": "2025-10-23T17:03:21.247Z",
+        "sentiment": {
+          "score": -1,
+          "comparative": -0.16666666666666666,
+          "sentiment": "negative",
+          "positive": [],
+          "negative": [
+            "disappointed"
+          ]
+        }
+      },
+      {
+        "rating": 2,
+        "text": "Not worth the price. Very disappointed.",
+        "date": "2025-12-29T17:03:21.247Z",
+        "sentiment": {
+          "score": -1,
+          "comparative": -0.16666666666666666,
+          "sentiment": "negative",
+          "positive": [],
+          "negative": [
+            "disappointed"
+          ]
+        }
+      },
+      {
+        "rating": 2,
+        "text": "Terrible experience. Would not return.",
+        "date": "2025-10-23T17:03:21.247Z",
+        "sentiment": {
+          "score": -1,
+          "comparative": -0.2,
+          "sentiment": "negative",
+          "positive": [],
+          "negative": [
+            "terrible"
+          ]
+        }
+      },
+      {
+        "rating": 2,
+        "text": "Not worth the price. Very disappointed.",
+        "date": "2025-12-14T17:03:21.247Z",
+        "sentiment": {
+          "score": -1,
+          "comparative": -0.16666666666666666,
+          "sentiment": "negative",
+          "positive": [],
+          "negative": [
+            "disappointed"
+          ]
+        }
+      },
+      {
+        "rating": 2,
+        "text": "Dirty tables and cold food.",
+        "date": "2026-01-23T17:03:21.247Z",
+        "sentiment": {
+          "score": -2,
+          "comparative": -0.4,
+          "sentiment": "negative",
+          "positive": [],
+          "negative": [
+            "dirty",
+            "cold"
+          ]
+        }
+      },
+      {
+        "rating": 3,
+        "text": "Decent but the service was inconsistent.",
+        "date": "2025-11-26T17:03:21.247Z",
+        "sentiment": {
+          "score": 0,
+          "comparative": 0,
+          "sentiment": "neutral",
+          "positive": [],
+          "negative": []
+        }
+      },
+      {
+        "rating": 3,
+        "text": "Mixed experience, some good some bad.",
+        "date": "2025-12-05T17:03:21.247Z",
+        "sentiment": {
+          "score": 0,
+          "comparative": 0,
+          "sentiment": "neutral",
+          "positive": [
+            "good"
+          ],
+          "negative": [
+            "bad"
+          ]
+        }
+      }
+    ],
+    "url": "https://sunrise-hotel.com",
+    "scrapedAt": "2026-02-14T17:03:21.247Z",
+    "enrichment": {
+      "contactInfo": {
+        "phone": "(550) 704-5093",
+        "email": "info@sunrise-hotel.com",
+        "website": "https://sunrise-hotel.com",
+        "hasContact": true
+      },
+      "reviewTrend": {
+        "trend": "stable",
+        "change": 0.04,
+        "recentAvg": 2.38,
+        "olderAvg": 2.33,
+        "trendScore": "moderate"
+      },
+      "businessSize": {
+        "size": "large",
+        "category": "Large (200-500 reviews)",
+        "totalReviews": 210,
+        "sizeScore": 21
+      },
+      "responseRate": {
+        "rate": 0,
+        "responded": 0,
+        "total": 17,
+        "percentage": "0%",
+        "engagement": "low"
+      },
+      "negativeReviewKeywords": [
+        {
+          "word": "disappointed",
+          "count": 4
+        },
+        {
+          "word": "terrible",
+          "count": 3
+        },
+        {
+          "word": "slow",
+          "count": 1
+        },
+        {
+          "word": "dirty",
+          "count": 1
+        },
+        {
+          "word": "cold",
+          "count": 1
+        }
+      ],
+      "lastNegativeReview": {
+        "date": "2026-01-28T17:03:21.247Z",
+        "daysAgo": 17,
+        "recency": "recent"
+      }
+    },
+    "score": 74,
+    "scoringDetails": {
+      "recentNegatives": {
+        "count": 3,
+        "points": 24
+      },
+      "lowResponseRate": {
+        "rate": 0,
+        "points": 30
+      },
+      "businessSize": {
+        "reviews": 210,
+        "points": 20
+      }
+    },
+    "priority": "high"
+  },
+  {
+    "id": "demo_26",
+    "source": "demo",
+    "name": "Coastal Bakery",
+    "rating": 2,
+    "totalReviews": 349,
+    "category": "Market",
+    "address": "111 Pine St, Nashville, TN",
+    "phone": "(810) 250-1398",
+    "website": "https://coastal-bakery.com",
+    "email": "info@coastal-bakery.com",
+    "reviews": [
+      {
+        "rating": 3,
+        "text": "Okay overall but nothing special.",
+        "date": "2026-01-16T17:03:21.248Z",
+        "sentiment": {
+          "score": 0,
+          "comparative": 0,
+          "sentiment": "neutral",
+          "positive": [],
+          "negative": []
+        }
+      },
+      {
+        "rating": 1,
+        "text": "Not worth the price. Very disappointed.",
+        "date": "2025-12-24T17:03:21.248Z",
+        "sentiment": {
+          "score": -1,
+          "comparative": -0.16666666666666666,
+          "sentiment": "negative",
+          "positive": [],
+          "negative": [
+            "disappointed"
+          ]
+        }
+      },
+      {
+        "rating": 3,
+        "text": "Fine for a quick stop.",
+        "date": "2025-11-03T17:03:21.248Z",
+        "sentiment": {
+          "score": 1,
+          "comparative": 0.2,
+          "sentiment": "positive",
+          "positive": [
+            "quick"
+          ],
+          "negative": []
+        }
+      },
+      {
+        "rating": 1,
+        "text": "Not worth the price. Very disappointed.",
+        "date": "2025-10-24T17:03:21.248Z",
+        "sentiment": {
+          "score": -1,
+          "comparative": -0.16666666666666666,
+          "sentiment": "negative",
+          "positive": [],
+          "negative": [
+            "disappointed"
+          ]
+        }
+      },
+      {
+        "rating": 3,
+        "text": "Decent but the service was inconsistent.",
+        "date": "2026-01-05T17:03:21.248Z",
+        "sentiment": {
+          "score": 0,
+          "comparative": 0,
+          "sentiment": "neutral",
+          "positive": [],
+          "negative": []
+        }
+      },
+      {
+        "rating": 3,
+        "text": "Mixed experience, some good some bad.",
+        "date": "2025-11-18T17:03:21.248Z",
+        "sentiment": {
+          "score": 0,
+          "comparative": 0,
+          "sentiment": "neutral",
+          "positive": [
+            "good"
+          ],
+          "negative": [
+            "bad"
+          ]
+        }
+      },
+      {
+        "rating": 2,
+        "text": "Long wait and the service was rude.",
+        "date": "2026-01-23T17:03:21.248Z",
+        "sentiment": {
+          "score": -1,
+          "comparative": -0.14285714285714285,
+          "sentiment": "negative",
+          "positive": [],
+          "negative": [
+            "rude"
+          ]
+        }
+      },
+      {
+        "rating": 2,
+        "text": "Terrible experience. Would not return.",
+        "date": "2026-01-19T17:03:21.248Z",
+        "sentiment": {
+          "score": -1,
+          "comparative": -0.2,
+          "sentiment": "negative",
+          "positive": [],
+          "negative": [
+            "terrible"
+          ]
+        }
+      },
+      {
+        "rating": 2,
+        "text": "Staff was unhelpful and slow.",
+        "date": "2025-12-03T17:03:21.248Z",
+        "sentiment": {
+          "score": -1,
+          "comparative": -0.2,
+          "sentiment": "negative",
+          "positive": [],
+          "negative": [
+            "slow"
+          ]
+        }
+      },
+      {
+        "rating": 3,
+        "text": "Average visit, some things could improve.",
+        "date": "2025-11-17T17:03:21.248Z",
+        "sentiment": {
+          "score": 0,
+          "comparative": 0,
+          "sentiment": "neutral",
+          "positive": [],
+          "negative": []
+        }
+      },
+      {
+        "rating": 1,
+        "text": "Long wait and the service was rude.",
+        "date": "2026-02-07T17:03:21.248Z",
+        "sentiment": {
+          "score": -1,
+          "comparative": -0.14285714285714285,
+          "sentiment": "negative",
+          "positive": [],
+          "negative": [
+            "rude"
+          ]
+        }
+      }
+    ],
+    "url": "https://coastal-bakery.com",
+    "scrapedAt": "2026-02-14T17:03:21.248Z",
+    "enrichment": {
+      "contactInfo": {
+        "phone": "(810) 250-1398",
+        "email": "info@coastal-bakery.com",
+        "website": "https://coastal-bakery.com",
+        "hasContact": true
+      },
+      "reviewTrend": {
+        "trend": "stable",
+        "change": 0.03,
+        "recentAvg": 2.2,
+        "olderAvg": 2.17,
+        "trendScore": "moderate"
+      },
+      "businessSize": {
+        "size": "large",
+        "category": "Large (200-500 reviews)",
+        "totalReviews": 349,
+        "sizeScore": 34.9
+      },
+      "responseRate": {
+        "rate": 0,
+        "responded": 0,
+        "total": 11,
+        "percentage": "0%",
+        "engagement": "low"
+      },
+      "negativeReviewKeywords": [
+        {
+          "word": "disappointed",
+          "count": 2
+        },
+        {
+          "word": "rude",
+          "count": 2
+        },
+        {
+          "word": "wait",
+          "count": 2
+        },
+        {
+          "word": "terrible",
+          "count": 1
+        },
+        {
+          "word": "slow",
+          "count": 1
+        }
+      ],
+      "lastNegativeReview": {
+        "date": "2026-02-07T17:03:21.248Z",
+        "daysAgo": 7,
+        "recency": "recent"
+      }
+    },
+    "score": 74,
+    "scoringDetails": {
+      "recentNegatives": {
+        "count": 3,
+        "points": 24
+      },
+      "lowResponseRate": {
+        "rate": 0,
+        "points": 30
+      },
+      "businessSize": {
+        "reviews": 349,
+        "points": 20
+      }
+    },
+    "priority": "high"
+  },
+  {
+    "id": "demo_7",
+    "source": "demo",
+    "name": "Urban Grill",
+    "rating": 3.1,
+    "totalReviews": 273,
+    "category": "Dentist",
+    "address": "701 Maple Ave, San Diego, CA",
+    "phone": "(389) 584-3508",
+    "website": "https://urban-grill.com",
+    "email": "info@urban-grill.com",
+    "reviews": [
+      {
+        "rating": 3,
+        "text": "Average visit, some things could improve.",
+        "date": "2025-10-31T17:03:21.246Z",
+        "sentiment": {
+          "score": 0,
+          "comparative": 0,
+          "sentiment": "neutral",
+          "positive": [],
+          "negative": []
+        }
+      },
+      {
+        "rating": 4,
+        "text": "Great value for the price.",
+        "date": "2025-12-26T17:03:21.246Z",
+        "sentiment": {
+          "score": 2,
+          "comparative": 0.4,
+          "sentiment": "positive",
+          "positive": [
+            "great",
+            "value"
+          ],
+          "negative": []
+        }
+      },
+      {
+        "rating": 3,
+        "text": "Fine for a quick stop.",
+        "date": "2025-11-05T17:03:21.246Z",
+        "sentiment": {
+          "score": 1,
+          "comparative": 0.2,
+          "sentiment": "positive",
+          "positive": [
+            "quick"
+          ],
+          "negative": []
+        }
+      },
+      {
+        "rating": 4,
+        "text": "Friendly staff and quick service.",
+        "date": "2025-11-23T17:03:21.246Z",
+        "sentiment": {
+          "score": 2,
+          "comparative": 0.4,
+          "sentiment": "positive",
+          "positive": [
+            "friendly",
+            "quick"
+          ],
+          "negative": []
+        }
+      },
+      {
+        "rating": 3,
+        "text": "Decent but the service was inconsistent.",
+        "date": "2025-10-21T17:03:21.246Z",
+        "sentiment": {
+          "score": 0,
+          "comparative": 0,
+          "sentiment": "neutral",
+          "positive": [],
+          "negative": []
+        }
+      },
+      {
+        "rating": 3,
+        "text": "Fine for a quick stop.",
+        "date": "2025-11-30T17:03:21.246Z",
+        "sentiment": {
+          "score": 1,
+          "comparative": 0.2,
+          "sentiment": "positive",
+          "positive": [
+            "quick"
+          ],
+          "negative": []
+        }
+      },
+      {
+        "rating": 3,
+        "text": "Okay overall but nothing special.",
+        "date": "2025-11-20T17:03:21.246Z",
+        "sentiment": {
+          "score": 0,
+          "comparative": 0,
+          "sentiment": "neutral",
+          "positive": [],
+          "negative": []
+        }
+      },
+      {
+        "rating": 4,
+        "text": "Pleasant atmosphere and tasty food.",
+        "date": "2025-10-28T17:03:21.246Z",
+        "sentiment": {
+          "score": 2,
+          "comparative": 0.4,
+          "sentiment": "positive",
+          "positive": [
+            "pleasant",
+            "tasty"
+          ],
+          "negative": []
+        }
+      },
+      {
+        "rating": 3,
+        "text": "Decent but the service was inconsistent.",
+        "date": "2026-02-05T17:03:21.246Z",
+        "sentiment": {
+          "score": 0,
+          "comparative": 0,
+          "sentiment": "neutral",
+          "positive": [],
+          "negative": []
+        }
+      },
+      {
+        "rating": 4,
+        "text": "Pleasant atmosphere and tasty food.",
+        "date": "2025-11-24T17:03:21.246Z",
+        "sentiment": {
+          "score": 2,
+          "comparative": 0.4,
+          "sentiment": "positive",
+          "positive": [
+            "pleasant",
+            "tasty"
+          ],
+          "negative": []
+        }
+      },
+      {
+        "rating": 3,
+        "text": "Fine for a quick stop.",
+        "date": "2025-12-02T17:03:21.246Z",
+        "sentiment": {
+          "score": 1,
+          "comparative": 0.2,
+          "sentiment": "positive",
+          "positive": [
+            "quick"
+          ],
+          "negative": []
+        }
+      },
+      {
+        "rating": 3,
+        "text": "Okay overall but nothing special.",
+        "date": "2026-02-08T17:03:21.246Z",
+        "sentiment": {
+          "score": 0,
+          "comparative": 0,
+          "sentiment": "neutral",
+          "positive": [],
+          "negative": []
+        }
+      },
+      {
+        "rating": 2,
+        "text": "Not worth the price. Very disappointed.",
+        "date": "2026-01-30T17:03:21.246Z",
+        "sentiment": {
+          "score": -1,
+          "comparative": -0.16666666666666666,
+          "sentiment": "negative",
+          "positive": [],
+          "negative": [
+            "disappointed"
+          ]
+        }
+      },
+      {
+        "rating": 4,
+        "text": "Solid experience, would come back.",
+        "date": "2025-11-05T17:03:21.246Z",
+        "sentiment": {
+          "score": 1,
+          "comparative": 0.2,
+          "sentiment": "positive",
+          "positive": [
+            "solid"
+          ],
+          "negative": []
+        }
+      },
+      {
+        "rating": 2,
+        "text": "Not worth the price. Very disappointed.",
+        "date": "2026-02-10T17:03:21.246Z",
+        "sentiment": {
+          "score": -1,
+          "comparative": -0.16666666666666666,
+          "sentiment": "negative",
+          "positive": [],
+          "negative": [
+            "disappointed"
+          ]
+        }
+      },
+      {
+        "rating": 3,
+        "text": "Mixed experience, some good some bad.",
+        "date": "2026-01-12T17:03:21.246Z",
+        "sentiment": {
+          "score": 0,
+          "comparative": 0,
+          "sentiment": "neutral",
+          "positive": [
+            "good"
+          ],
+          "negative": [
+            "bad"
+          ]
+        }
+      },
+      {
+        "rating": 3,
+        "text": "Mixed experience, some good some bad.",
+        "date": "2025-10-27T17:03:21.246Z",
+        "sentiment": {
+          "score": 0,
+          "comparative": 0,
+          "sentiment": "neutral",
+          "positive": [
+            "good"
+          ],
+          "negative": [
+            "bad"
+          ]
+        }
+      },
+      {
+        "rating": 3,
+        "text": "Fine for a quick stop.",
+        "date": "2026-02-02T17:03:21.246Z",
+        "sentiment": {
+          "score": 1,
+          "comparative": 0.2,
+          "sentiment": "positive",
+          "positive": [
+            "quick"
+          ],
+          "negative": []
+        }
+      }
+    ],
+    "url": "https://urban-grill.com",
+    "scrapedAt": "2026-02-14T17:03:21.247Z",
+    "enrichment": {
+      "contactInfo": {
+        "phone": "(389) 584-3508",
+        "email": "info@urban-grill.com",
+        "website": "https://urban-grill.com",
+        "hasContact": true
+      },
+      "reviewTrend": {
+        "trend": "worsening",
+        "change": -0.56,
+        "recentAvg": 2.89,
+        "olderAvg": 3.44,
+        "trendScore": "critical"
+      },
+      "businessSize": {
+        "size": "large",
+        "category": "Large (200-500 reviews)",
+        "totalReviews": 273,
+        "sizeScore": 27.3
+      },
+      "responseRate": {
+        "rate": 0,
+        "responded": 0,
+        "total": 18,
+        "percentage": "0%",
+        "engagement": "low"
+      },
+      "negativeReviewKeywords": [
+        {
+          "word": "disappointed",
+          "count": 2
+        }
+      ],
+      "lastNegativeReview": {
+        "date": "2026-02-10T17:03:21.246Z",
+        "daysAgo": 4,
+        "recency": "very_recent"
+      }
+    },
+    "score": 72,
+    "scoringDetails": {
+      "recentNegatives": {
+        "count": 2,
+        "points": 12
+      },
+      "lowResponseRate": {
+        "rate": 0,
+        "points": 30
+      },
+      "businessSize": {
+        "reviews": 273,
+        "points": 20
+      },
+      "ratingDecline": {
+        "trend": "worsening",
+        "trendScore": "critical",
+        "points": 10
+      }
+    },
+    "priority": "high"
+  },
+  {
+    "id": "demo_22",
+    "source": "demo",
+    "name": "Golden Auto",
+    "rating": 2.7,
+    "totalReviews": 240,
+    "category": "Auto Repair",
+    "address": "367 Main St, Nashville, TN",
+    "phone": "(644) 857-4033",
+    "website": "https://golden-auto.com",
+    "email": "info@golden-auto.com",
+    "reviews": [
+      {
+        "rating": 2,
+        "text": "Staff was unhelpful and slow.",
+        "date": "2026-01-22T17:03:21.248Z",
+        "sentiment": {
+          "score": -1,
+          "comparative": -0.2,
+          "sentiment": "negative",
+          "positive": [],
+          "negative": [
+            "slow"
+          ]
+        }
+      },
+      {
+        "rating": 4,
+        "text": "Great value for the price.",
+        "date": "2026-01-03T17:03:21.248Z",
+        "sentiment": {
+          "score": 2,
+          "comparative": 0.4,
+          "sentiment": "positive",
+          "positive": [
+            "great",
+            "value"
+          ],
+          "negative": []
+        }
+      },
+      {
+        "rating": 4,
+        "text": "Great value for the price.",
+        "date": "2025-11-16T17:03:21.248Z",
+        "sentiment": {
+          "score": 2,
+          "comparative": 0.4,
+          "sentiment": "positive",
+          "positive": [
+            "great",
+            "value"
+          ],
+          "negative": []
+        }
+      },
+      {
+        "rating": 3,
+        "text": "Decent but the service was inconsistent.",
+        "date": "2026-01-24T17:03:21.248Z",
+        "sentiment": {
+          "score": 0,
+          "comparative": 0,
+          "sentiment": "neutral",
+          "positive": [],
+          "negative": []
+        }
+      },
+      {
+        "rating": 4,
+        "text": "Good service and clean space.",
+        "date": "2025-11-21T17:03:21.248Z",
+        "sentiment": {
+          "score": 2,
+          "comparative": 0.4,
+          "sentiment": "positive",
+          "positive": [
+            "good",
+            "clean"
+          ],
+          "negative": []
+        }
+      },
+      {
+        "rating": 4,
+        "text": "Solid experience, would come back.",
+        "date": "2025-11-22T17:03:21.248Z",
+        "sentiment": {
+          "score": 1,
+          "comparative": 0.2,
+          "sentiment": "positive",
+          "positive": [
+            "solid"
+          ],
+          "negative": []
+        }
+      },
+      {
+        "rating": 3,
+        "text": "Decent but the service was inconsistent.",
+        "date": "2026-01-13T17:03:21.248Z",
+        "sentiment": {
+          "score": 0,
+          "comparative": 0,
+          "sentiment": "neutral",
+          "positive": [],
+          "negative": []
+        }
+      },
+      {
+        "rating": 3,
+        "text": "Okay overall but nothing special.",
+        "date": "2025-10-21T17:03:21.248Z",
+        "sentiment": {
+          "score": 0,
+          "comparative": 0,
+          "sentiment": "neutral",
+          "positive": [],
+          "negative": []
+        }
+      }
+    ],
+    "url": "https://golden-auto.com",
+    "scrapedAt": "2026-02-14T17:03:21.248Z",
+    "enrichment": {
+      "contactInfo": {
+        "phone": "(644) 857-4033",
+        "email": "info@golden-auto.com",
+        "website": "https://golden-auto.com",
+        "hasContact": true
+      },
+      "reviewTrend": {
+        "trend": "worsening",
+        "change": -0.75,
+        "recentAvg": 3,
+        "olderAvg": 3.75,
+        "trendScore": "critical"
+      },
+      "businessSize": {
+        "size": "large",
+        "category": "Large (200-500 reviews)",
+        "totalReviews": 240,
+        "sizeScore": 24
+      },
+      "responseRate": {
+        "rate": 0,
+        "responded": 0,
+        "total": 8,
+        "percentage": "0%",
+        "engagement": "low"
+      },
+      "negativeReviewKeywords": [
+        {
+          "word": "slow",
+          "count": 1
+        }
+      ],
+      "lastNegativeReview": {
+        "date": "2026-01-22T17:03:21.248Z",
+        "daysAgo": 23,
+        "recency": "recent"
+      }
+    },
+    "score": 72,
+    "scoringDetails": {
+      "recentNegatives": {
+        "count": 1,
+        "points": 12
+      },
+      "lowResponseRate": {
+        "rate": 0,
+        "points": 30
+      },
+      "businessSize": {
+        "reviews": 240,
+        "points": 20
+      },
+      "ratingDecline": {
+        "trend": "worsening",
+        "trendScore": "critical",
+        "points": 10
+      }
+    },
+    "priority": "high"
+  }
+]
